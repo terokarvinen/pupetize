@@ -1,0 +1,10 @@
+## Managed file, changes will be overwritten
+
+deb http://archive.ubuntu.com/ubuntu/ xenial main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ xenial main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu/ xenial-security main restricted universe multiverse
+deb-src http://security.ubuntu.com/ubuntu/ xenial-security main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu/ xenial-updates main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ xenial-updates main restricted universe multiverse
+
+
